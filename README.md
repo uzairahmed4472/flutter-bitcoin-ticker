@@ -1,9 +1,9 @@
 # flutter-bitcoin-ticker
 
 **Bitcoin Ticker Description:**
-    <ol>
+    <ul>
         <li>A cryptocurrency price tracking app.</li>
-    </ol>
+    </ul>
     
 **Skills Learned:**
     <ul>
